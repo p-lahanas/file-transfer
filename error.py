@@ -1,2 +1,3 @@
 # The exit status codes if error arises
-SOCK_ERROR = 0
+NO_ERR = 0
+SOCK_ERR = 1
